@@ -61,16 +61,19 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=variables-dev-coder&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=variables-dev-coder&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=variables-dev-coder" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=variables-dev-coder&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=variables-dev-coder&theme=tokyonight&layout=compact" />
+</p>
 
 ---
 
