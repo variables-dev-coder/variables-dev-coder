@@ -4,7 +4,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 2022 Graduate | Fresher  
+- 🎓 2022 Graduate | Oracle Infrastructure Support Engineer
 - ☕ Strong in **Core Java & OOPs**
 - 🔧 Backend Developer focused on **Spring Boot & Microservices**
 - 🔐 Built **JWT Authentication & Security** projects
