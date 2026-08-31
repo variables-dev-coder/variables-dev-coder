@@ -82,7 +82,7 @@
 - 🐦 Twitter (X): https://x.com/the_departed__
 - 💻 LeetCode: https://leetcode.com/u/munna_aziz_mondal/
 - 📘 GeeksforGeeks: https://www.geeksforgeeks.org/profile/azizmun09ad
-- 📧 Email: azizmunna661@gmail.com  
+- 📧 Email: azizmunna661@gmail.com
 
 ---
 
