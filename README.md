@@ -24,7 +24,7 @@
 ### 🔹 Programming
 
 * Java
-* SQL
+* javaScript & React
 
 ### 🔹 Backend & Frameworks
 
